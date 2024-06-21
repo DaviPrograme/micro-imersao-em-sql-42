@@ -1,0 +1,1 @@
+select nome, cargo, remuneracao from guarulhos order by remuneracao desc limit 3;

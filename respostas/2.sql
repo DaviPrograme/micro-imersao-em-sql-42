@@ -1,0 +1,1 @@
+select Secretaria, sum(ValorSalario) as Salario from sao_bernardo group by Secretaria;

@@ -1,0 +1,1 @@
+select Nome_completo, Cargo_Comissão from sao_paulo where Cargo_Comissão is not null;
